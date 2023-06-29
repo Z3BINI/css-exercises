@@ -1,0 +1,13 @@
+.b_left, .b_right {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.b_left {
+    background-color: rgb(24, 14, 14);
+    color: white;
+}
+
+.b_right {
+    background-color: rgb(252, 252, 135);
+}
